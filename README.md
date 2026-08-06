@@ -92,12 +92,12 @@
 
 <br /><br />
 
-<!-- Side-by-Side Neon Dark Cards -->
+<!-- High-Reliability Stats & Languages -->
 <a href="https://github.com/codex11-svg">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codex11-svg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=codex11-svg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="48%" alt="Top Languages" />
 </a>
 <a href="https://github.com/codex11-svg">
-  <img src="https://github-readme-stats.vercel.app/api?username=codex11-svg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=codex11-svg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" width="48%" alt="GitHub Stats" />
 </a>
 
 <br /><br />
