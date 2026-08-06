@@ -102,12 +102,10 @@
 
 <br /><br />
 
-<!-- Animated Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codex11-svg/codex11-svg/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codex11-svg/codex11-svg/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codex11-svg/codex11-svg/output/github-contribution-grid-snake-dark.svg" width="98%">
-</picture>
+<!-- Dynamic Activity Graph (Zero-Setup Instant Visual) -->
+<a href="https://github.com/codex11-svg">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codex11-svg&theme=tokyonight&bg_color=0D1117&color=58A6FF&line=58A6FF&point=BC8CFF&area=true&hide_border=true" width="98%" alt="Contribution Graph" />
+</a>
 
 </div>
 
